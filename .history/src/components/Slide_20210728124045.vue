@@ -1,6 +1,6 @@
 <template>
 	<div class="slide">
-		<transition name="slide" mode="out-in">
+		<transition name="slide" mode="in-out">
 			<slot />
 		</transition>
 	</div>
