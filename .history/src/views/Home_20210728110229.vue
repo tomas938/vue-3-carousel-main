@@ -45,8 +45,9 @@ export default {
 		width: 100%;
 		max-height: 100%;
 		height: 100%;
-		overflow: hidden;
+
 		img {
+			overflow: hidden;
 			min-width: 100%;
 			height: 100%;
 			object-fit: cover;
