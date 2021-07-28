@@ -36,7 +36,7 @@ export default {
 .carousel {
 	position: relative;
 	min-height: 100vh;
-	// height: 100vh;
+	height: 100vh;
 
 	.slide-info {
 		position: absolute;

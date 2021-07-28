@@ -35,8 +35,8 @@ export default {
 <style lang="scss" scoped>
 .carousel {
 	position: relative;
-	min-height: 100vh;
-	// height: 100vh;
+	// max-height: 100vh;
+	height: 100vh;
 
 	.slide-info {
 		position: absolute;
