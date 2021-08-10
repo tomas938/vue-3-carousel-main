@@ -1,5 +1,7 @@
 # app
 
+## This is one of the youtube project from John Komarnicki all credits to him.
+
 ## Project setup
 ```
 npm install
